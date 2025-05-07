@@ -6,7 +6,7 @@
 - Tool is very simple
 - Low hardware requirements
 - Is gratis
-- Written in python and library pytube .
+- Written in python and library pytube and Tkinter.
 
 If you liked this small project, you can support me at the Donate link    [![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.me/wampirlucas)
 
